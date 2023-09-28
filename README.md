@@ -21,21 +21,24 @@ If you find our work, this repository, or novel algorithms or annotated datasets
 # :rocket: News
 
 # * **(Mar 25, 2023)**
-  * An implementation supporting PyTorchDistributedDataParallel (DDP) is available [here](https://github.com/auniquesun/CrossPoint-DDP). Thanks to [Jerry Sun](https://auniquesun.github.io/)
-* **(Mar 2, 2022)**
-  * Paper accepted at CVPR 2022 :tada: 
-* **(Mar 2, 2022)** 
-  * Training and evaluation codes for [CrossPoint](https://openaccess.thecvf.com/content/CVPR2022/html/Afham_CrossPoint_Self-Supervised_Cross-Modal_Contrastive_Learning_for_3D_Point_Cloud_Understanding_CVPR_2022_paper.html), along with pretrained models are released.
+
+# * An implementation supporting PyTorchDistributedDataParallel (DDP) is available [here](https://github.com/auniquesun/CrossPoint-DDP). Thanks to [Jerry Sun](https://auniquesun.github.io/)
+
+# * **(Mar 2, 2022)**
+
+#  * Paper accepted at CVPR 2022 :tada: 
+* **(Oct 2, 2023)** 
+  * Base python codes for the novel algorithms in [Elemantra](), along with annotated datasets are released.
 
 ## Dependencies
 
-Refer `requirements.txt` for the required packages.
+Refer `requirements.txt` for the required essential packages.
 
-## Pretrained Models
+```
+pip install -r requirements.txt
+```
 
-CrossPoint pretrained models with DGCNN feature extractor are available [here.](https://drive.google.com/drive/folders/10TVEIRUBCh3OPulKI4i2whYAcKVdSURn?usp=sharing)
-
-## Download data
+## Data
 
 Datasets are available [here](https://drive.google.com/drive/folders/1dAH9R3XDV0z69Bz6lBaftmJJyuckbPmR?usp=sharing). Run the command below to download all the datasets (ShapeNetRender, ModelNet40, ScanObjectNN, ShapeNetPart) to reproduce the results.
 
