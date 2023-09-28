@@ -6,7 +6,7 @@ Elemantra: An End-to-End Automated Framework Empowered with AI and IoT for Tackl
 
 ## Citation
 
-If you find our work, this repository, or novel algorithms or annotated datasets useful, please consider giving a star ⭐ and citation.
+If you find our work, this repository, or novel algorithms or annotated datasets useful, please consider giving a star ⭐ and citing our [paper]().
 ```bibtex
 @InProceedings{Bandara_2024_APSCON,
     author    = {Bandara, Nuwan Sriyantha and Bandara, Dilshan Pramudith},
@@ -19,8 +19,8 @@ If you find our work, this repository, or novel algorithms or annotated datasets
 ```
 
 # :rocket: News
-* **(Mar 25, 2023)**
-  * An implementation supporting PyTorchDistributedDataParallel (DDP) is available [here](https://github.com/auniquesun/CrossPoint-DDP). Thanks to [Jerry Sun](https://auniquesun.github.io/)
+[comment]: <> (* **(Mar 25, 2023)**
+  * An implementation supporting PyTorchDistributedDataParallel (DDP) is available [here](https://github.com/auniquesun/CrossPoint-DDP). Thanks to [Jerry Sun](https://auniquesun.github.io/))
 * **(Mar 2, 2022)**
   * Paper accepted at CVPR 2022 :tada: 
 * **(Mar 2, 2022)** 
