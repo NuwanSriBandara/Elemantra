@@ -1,1 +1,1 @@
-
+The SOLIDWORKS design resources for the proposed hardware framework can be made available upon reasonable request from the corresponding author through pmnsribandara@gmail.com or elemantra.stimulus@gmail.com
