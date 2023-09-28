@@ -1,0 +1,8 @@
+main:
+  data: './data'
+
+  seismic:
+    data_path: 'sample_seismic_data/data.csv'
+
+  bee-modify:
+    data_path: 'sample_bee_sounds/bee_sound_1.mp3'
