@@ -60,21 +60,20 @@ Other forms of execution
 python3 main.py --task=bee-modify
 ```
 
-## Downstream Tasks
+## Results
 
-### 1. 3D Object Classification 
-
-Run `eval_ssl.ipynb` notebook to perform linear SVM object classification in both ModelNet40 and ScanObjectNN datasets.
+### 1. Infrared signature-based elephant detection 
 
 
-### 2. Few-Shot Object Classification
+### 2. Seismic-based elephant detection
 
-Refer `scripts/fsl_script.sh` to perform few-shot object classification.
 
-### 3. 3D Object Part Segmentation
+### 3. Hardware design
 
-Refer `scripts/script.sh` for fine-tuning experiment for part segmentation in ShapeNetPart dataset.
 
-## Acknowledgements
-Our code borrows heavily from [DGCNN](https://github.com/WangYueFt/dgcnn) repository. We thank the authors of DGCNN for releasing their code. If you use our model, please consider citing them as well.
+### 4. Repelling system
+
+
+<!--- ## Acknowledgements
+Our code borrows heavily from [DGCNN](https://github.com/WangYueFt/dgcnn) repository. We thank the authors of DGCNN for releasing their code. If you use our model, please consider citing them as well. -->
 
