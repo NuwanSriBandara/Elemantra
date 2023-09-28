@@ -50,10 +50,13 @@ def randomized(bee_sound):
   return manipulated_audio
 
 def retrieve_input(filepath):
-  return AudioSegment.from_file(filepath)
+  audio = AudioSegment.from_file(filepath)
+  audio = audio.export(format="mp3")
+  return audio
 
 def retrieve_output(filepath):
   audio = retrieve_input(filepath)
+  audio = AudioSegment.from_file(audio)
   if(len(audio)<4000):
     audio = modify(audio)
   else:
