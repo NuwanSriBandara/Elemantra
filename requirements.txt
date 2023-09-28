@@ -1,0 +1,10 @@
+pydub==0.25.1
+numpy==1.23.5
+librosa==0.10.1
+matplotlib==3.7.1
+scipy==1.11.2
+obspy==1.4.0
+pandas==1.5.3
+opencv-python==4.8.0.76
+pathlib==1.0.1
+click==8.1.7
