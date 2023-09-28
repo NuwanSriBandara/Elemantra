@@ -31,7 +31,7 @@ If you find our work, this repository, or novel algorithms or annotated datasets
 and here
 -->
 * **(Oct 2, 2023)** 
-  * Base python codes for the novel algorithms in [Elemantra](), along with annotated datasets are released.
+  * Base python codes for the novel algorithms in [Elemantra](), along with annotated datasets, are released.
 
 ## Dependencies
 
@@ -43,16 +43,22 @@ pip install -r requirements.txt
 
 ## Data
 
-Datasets are available [here](https://drive.google.com/drive/folders/1dAH9R3XDV0z69Bz6lBaftmJJyuckbPmR?usp=sharing). Run the command below to download all the datasets (ShapeNetRender, ModelNet40, ScanObjectNN, ShapeNetPart) to reproduce the results.
+Configure the datapaths in config.yaml for each task (i.e. seismic-based elephant detection, modified bee sound-based elephant repelling and infrared signature-based elephant detection) as in the folder structure of this repository after adding more data points, especially for seismic-based elephant detection and modified bee sound-based elephant repelling, as required. 
 
+Note: The sample data for bee sound processing and seismic signal processing are in sample_bee_sounds (retrieved from [here](https://zenodo.org/record/1321278)) and sample_seismic_data folders (retrieved from [here](https://zenodo.org/record/4642565)) respectively. The annotated dataset for infrared image-based elephant detection is in the dataset: elephant_detection (the respective images are collected from [here](https://github.com/arribada/human-wildlife-conflict) and annotated by this project). Therefore, if you use, by any means, data and/or proposed algorithms, please cite the above sources accordingly, along with our work. 
+
+## Usage
+
+Execute the tasks
 ```
-cd data
-source download_data.sh
+# execute entire pipeline with default task: seismic-based elephant detection
+python3 main.py
 ```
-
-## Train CrossPoint
-
-Refer `scripts/script.sh` for the commands to train CrossPoint.
+Other forms of execution
+```
+# execute entire pipeline for the task: modified bee sound-based elephant repelling. Note that the spectrogram correlation calculations usually takes a considerable time to execute
+python3 main.py --task=bee-modify
+```
 
 ## Downstream Tasks
 
