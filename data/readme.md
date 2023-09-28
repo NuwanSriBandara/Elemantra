@@ -1,1 +1,3 @@
-The sample data for bee sound processing and seismic signal processing are here. The annotated dataset for infrared image-based elephant detection is in the dataset: elephant_detection.
+Note: The sample data for bee sound processing and seismic signal processing are in sample_bee_sounds (retrieved from [here](https://zenodo.org/record/1321278)) and sample_seismic_data folders (retrieved from [here](https://zenodo.org/record/4642565)) respectively. The annotated dataset for infrared image-based elephant detection is in the dataset: elephant_detection (the respective images are collected from [here](https://github.com/arribada/human-wildlife-conflict) and annotated by this project). 
+
+Therefore, if you use, by any means, data and/or proposed algorithms, please cite the above sources accordingly along with our work. 
