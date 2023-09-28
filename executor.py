@@ -13,7 +13,7 @@ def executor(task, datapath):
     audio1 = retrieve_input(datapath) # "./data/sample_bee_sounds/bee_sound_1.mp3"
     audio2 = retrieve_output(datapath) # "./data/sample_bee_sounds/bee_sound_1.mp3"
     D1, D2 = generate_spectra(audio1, audio2)
-    max_corr, _ = compute_corr(D1, D2)
+    # max_corr, _ = compute_corr(D1, D2) # note that this step will take a considerable time to execute for large audio files
     print('Done!')
 
 if __name__ == "__main__":
