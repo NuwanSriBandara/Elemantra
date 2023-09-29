@@ -64,19 +64,31 @@ python3 main.py --task=bee-modify
 
 ### 1. Infrared signature-based elephant detection
 
-<!--- Solarized dark             |  Solarized Ocean          |  Solarized Ocean -->
+Elephant detection instances in test infrared set using tflite model
+
+ with high confidence      |  one retrieved from [here](https://github.com/arribada/human-wildlife-conflict)          |   one which failed to detect multiple elephants
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/detection_results_3.jpg)  |  ![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/detection_results.png) |  ![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/detection_results_2.png)
 
 ### 2. Seismic-based elephant detection
 
+ Solarized dark             |  Solarized Ocean          |  Solarized Ocean
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/fft_analysis.png)  |  ![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/spectrogram_figure.png) |  ![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/recorded_signal_figure.png)
+
 
 ### 3. Hardware design
 
+ Solarized dark             |
+:-------------------------:|
+![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/hardware_design.JPG)  | 
 
 ### 4. Repelling system
 
+ Solarized dark             |  Solarized Ocean          |  Solarized Ocean
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/spectro_original_audio.png)  |  ![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/spectro_modified_audio_method_1.png) |  ![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/spectro_modified_audio_method_2.png)
 
 <!--- ## Acknowledgements
-Our code borrows heavily from [DGCNN](https://github.com/WangYueFt/dgcnn) repository. We thank the authors of DGCNN for releasing their code. If you use our model, please consider citing them as well. -->
+Our code borrows heavily from repository. We thank the authors of [] for releasing their code. If you use our model, please consider citing them as well. -->
 
