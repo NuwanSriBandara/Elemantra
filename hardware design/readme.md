@@ -1,6 +1,6 @@
 ### Hardware design
 
- Solarized dark             |
+ Hardware design of the peripheral node            |
 :-------------------------:|
 ![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/hardware_design.JPG)  | 
 
