@@ -75,17 +75,13 @@ Elephant detection instances in test infrared set using tflite model
  Solarized dark             |  Solarized Ocean          |  Solarized Ocean
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/fft_analysis.png)  |  ![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/spectrogram_figure.png) |  ![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/recorded_signal_figure.png)
-
-
-### 3. Hardware design
-
- Solarized dark             |
-:-------------------------:|
-![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/hardware_design.JPG)  | 
+ 
 
 ### 4. Repelling system
 
- Solarized dark             |  Solarized Ocean          |  Solarized Ocean
+STFT spectrogram plots of one:
+
+ original bee sound segment of 4𝑠         |  corresponding modified bee sounds through randomly changing the FR         |  corresponding modified bee sounds through randomly adding an overlay of pink noise
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/spectro_original_audio.png)  |  ![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/spectro_modified_audio_method_1.png) |  ![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/spectro_modified_audio_method_2.png)
 
