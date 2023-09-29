@@ -72,7 +72,9 @@ Elephant detection instances in test infrared set using tflite model
 
 ### 2. Seismic-based elephant detection
 
- Solarized dark             |  Solarized Ocean          |  Solarized Ocean
+Elephant detection instance using seismic recordings
+
+ frequency distribution             |  detection in STFT plot         |  detection using proposed method
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/fft_analysis.png)  |  ![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/spectrogram_figure.png) |  ![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/recorded_signal_figure.png)
  
