@@ -2,6 +2,8 @@
 
 Elemantra: An End-to-End Automated Framework Empowered with AI and IoT for Tackling Human-Elephant Conflict in Elephant-Range Countries
 
+By [Nuwan Bandara](https://sites.google.com/view/nuwan-bandara/) and [Dilshan Bandara](https://www.linkedin.com/in/dilshan--bandara/)
+
 #### [Paper Link]() | [Project Page](https://nuwansribandara.github.io/elemantra/) 
 
 ## Citation
