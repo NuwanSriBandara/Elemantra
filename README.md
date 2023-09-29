@@ -66,7 +66,7 @@ python3 main.py --task=bee-modify
 
 Solarized dark             |  Solarized Ocean          |  Solarized Ocean
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/detection_results_3.jpg)  |  ![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/detection_results.jpg) |  ![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/detection_results_2.jpg)
+![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/detection_results_3.jpg)  |  ![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/detection_results.png) |  ![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/detection_results_2.png)
 
 ### 2. Seismic-based elephant detection
 
