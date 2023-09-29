@@ -64,9 +64,9 @@ python3 main.py --task=bee-modify
 
 ### 1. Infrared signature-based elephant detection
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/detection_results_3.jpg)  |  ![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/detection_results_3.jpg)
+Solarized dark             |  Solarized Ocean          |  Solarized Ocean
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/detection_results_3.jpg)  |  ![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/detection_results.jpg) |  ![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/detection_results_2.jpg)
 
 ### 2. Seismic-based elephant detection
 
