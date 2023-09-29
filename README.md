@@ -89,6 +89,6 @@ STFT spectrogram plots of one:
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/spectro_original_audio.png)  |  ![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/spectro_modified_audio_method_1.png) |  ![](https://github.com/NuwanSriBandara/Elemantra/blob/main/Figures/spectro_modified_audio_method_2.png)
 
-<!--- ## Acknowledgements
-Our code borrows heavily from repository. We thank the authors of [] for releasing their code. If you use our model, please consider citing them as well. -->
+## Acknowledgements
+Authors would like to extend their gratitude to Dr. [Mukunthan Tharmakulasingam](https://scholar.google.com/citations?user=EKVOAysAAAAJ&hl=en) from the University of Surrey, United Kingdom, Dr. [Chamira Edussooriya](https://scholar.google.com/citations?hl=en&user=qe5byo4AAAAJ), Ms. Anjalie Kalansooriya and Mr. Derek Nanayakkara from the University of Moratuwa, Sri Lanka for their valuable suggestions.
 
