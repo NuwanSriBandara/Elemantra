@@ -4,7 +4,7 @@ Elemantra: An End-to-End Automated Framework Empowered with AI and IoT for Tackl
 
 By [Nuwan Bandara](https://sites.google.com/view/nuwan-bandara/) and [Dilshan Bandara](https://www.linkedin.com/in/dilshan--bandara/)
 
-#### [Paper Link]() | [Project Page](https://nuwansribandara.github.io/elemantra/) 
+#### [Paper Link]() | [Project Page](https://nuwansribandara.github.io/Elemantra/) 
 
 ## Citation
 
