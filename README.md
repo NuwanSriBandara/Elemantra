@@ -32,7 +32,7 @@ If you find our work, this repository, or novel algorithms or annotated datasets
 #  * Paper accepted at CVPR 2022 :tada: your comment goes here
 and here
 -->
-* **(Oct 20, 2023)** 
+* **(Oct 24, 2023)** 
   * Base python codes for the novel algorithms in [Elemantra]() are released.
 
 ## Dependencies
