@@ -10,7 +10,7 @@ By [Nuwan Bandara](https://sites.google.com/view/nuwan-bandara/) and [Dilshan Ba
 
 If you find our work, this repository, or novel algorithms or annotated datasets useful, please consider giving a star ⭐ and citing our [paper]().
 ```bibtex
-@InProceedings{Bandara_2024_APSCON,
+@InProceedings{Bandara_2024_elemantra,
     author    = {Bandara, Nuwan Sriyantha and Bandara, Dilshan Pramudith},
     title     = {Elemantra: An End-to-End Automated Framework Empowered with AI and IoT for Tackling Human-Elephant Conflict in Elephant-Range Countries},
     booktitle = {arXiv preprint},
