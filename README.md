@@ -13,9 +13,8 @@ If you find our work, this repository, or novel algorithms or annotated datasets
 @InProceedings{Bandara_2024_APSCON,
     author    = {Bandara, Nuwan Sriyantha and Bandara, Dilshan Pramudith},
     title     = {Elemantra: An End-to-End Automated Framework Empowered with AI and IoT for Tackling Human-Elephant Conflict in Elephant-Range Countries},
-    booktitle = {IEEE Sensors Letters},
-    month     = {},
-    year      = {2024},
+    booktitle = {arXiv preprint},
+    year      = {2023},
     pages     = {}
 }
 ```
@@ -33,7 +32,7 @@ If you find our work, this repository, or novel algorithms or annotated datasets
 and here
 -->
 * **(Oct 24, 2023)** 
-  * Base python codes for the novel algorithms in [Elemantra]() are released.
+  * Base Python codes for the novel algorithms in [Elemantra]() are released.
 
 ## Dependencies
 
