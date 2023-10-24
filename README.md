@@ -4,18 +4,19 @@ Elemantra: An End-to-End Automated Framework Empowered with AI and IoT for Tackl
 
 By [Nuwan Bandara](https://sites.google.com/view/nuwan-bandara/) and [Dilshan Bandara](https://www.linkedin.com/in/dilshan--bandara/)
 
-#### [Paper Link]() | [Project Page](https://nuwansribandara.github.io/Elemantra/) 
+#### [Paper Link](https://arxiv.org/abs/2310.15012) | [Project Page](https://nuwansribandara.github.io/Elemantra/) 
 
 ## Citation
 
 If you find our work, this repository, or novel algorithms or annotated datasets useful, please consider giving a star ⭐ and citing our [paper]().
 ```bibtex
-@InProceedings{Bandara_2024_elemantra,
-    author    = {Bandara, Nuwan Sriyantha and Bandara, Dilshan Pramudith},
-    title     = {Elemantra: An End-to-End Automated Framework Empowered with AI and IoT for Tackling Human-Elephant Conflict in Elephant-Range Countries},
-    booktitle = {arXiv preprint},
-    year      = {2023},
-    pages     = {}
+@misc{bandara2023elemantra,
+      title={Elemantra: An End-to-End Automated Framework Empowered with AI and IoT for Tackling Human-Elephant Conflict in Elephant-Range Countries}, 
+      author={Nuwan Sriyantha Bandara and Dilshan Pramudith Bandara},
+      year={2023},
+      eprint={2310.15012},
+      archivePrefix={arXiv},
+      primaryClass={eess.SY}
 }
 ```
 
@@ -32,7 +33,7 @@ If you find our work, this repository, or novel algorithms or annotated datasets
 and here
 -->
 * **(Oct 24, 2023)** 
-  * Base Python codes for the novel algorithms in [Elemantra]() are released.
+  * Base Python codes for the novel algorithms in [Elemantra](https://arxiv.org/abs/2310.15012) are released.
 
 ## Dependencies
 
