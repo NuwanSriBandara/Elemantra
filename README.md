@@ -34,7 +34,7 @@ and here
 -->
 
 * **(Nov 1, 2023)** 
-  * Infrared Elephant Image Annotated Dataset ('EleThermal' dataset) is released.
+  * Infrared Elephant Image Annotated Dataset ('[EleThermal](https://github.com/NuwanSriBandara/Elemantra/tree/main/data/Thermal_Elephant_Dataset)' dataset) is released.
 
 * **(Oct 24, 2023)** 
   * Base Python codes for the novel algorithms in [Elemantra](https://arxiv.org/abs/2310.15012) are released.
