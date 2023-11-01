@@ -8,7 +8,7 @@ By [Nuwan Bandara](https://sites.google.com/view/nuwan-bandara/) and [Dilshan Ba
 
 ## Citation
 
-If you find our work, this repository, or novel algorithms or annotated datasets useful, please consider giving a star ⭐ and citing our [paper]().
+If you find our work, this repository, or novel algorithms or annotated datasets useful, please consider giving a star ⭐ and citing our [paper](https://arxiv.org/abs/2310.15012).
 ```bibtex
 @misc{bandara2023elemantra,
       title={Elemantra: An End-to-End Automated Framework Empowered with AI and IoT for Tackling Human-Elephant Conflict in Elephant-Range Countries}, 
