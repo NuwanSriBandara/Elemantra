@@ -32,6 +32,10 @@ If you find our work, this repository, or novel algorithms or annotated datasets
 #  * Paper accepted at CVPR 2022 :tada: your comment goes here
 and here
 -->
+
+* **(Nov 1, 2023)** 
+  * Infrared Elephant Image Annotated Dataset ('EleThermal' dataset) is released.
+
 * **(Oct 24, 2023)** 
   * Base Python codes for the novel algorithms in [Elemantra](https://arxiv.org/abs/2310.15012) are released.
 
