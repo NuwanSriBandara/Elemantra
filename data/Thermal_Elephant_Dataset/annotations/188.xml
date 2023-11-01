@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Elemantra</folder>
+	<filename>188.png</filename>
+	<path>D:\Elemantra\188.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>628</xmin>
+			<ymin>345</ymin>
+			<xmax>728</xmax>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+</annotation>
