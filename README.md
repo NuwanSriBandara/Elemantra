@@ -4,7 +4,7 @@ Elemantra: An End-to-End Automated Framework Empowered with AI and IoT for Tackl
 
 By [Nuwan Bandara](https://sites.google.com/view/nuwan-bandara/) and [Dilshan Bandara](https://www.linkedin.com/in/dilshan--bandara/)
 
-#### [Paper Link](https://arxiv.org/abs/2310.15012) | [Project Page](https://nuwansribandara.github.io/Elemantra/) 
+#### [Paper Link](https://arxiv.org/abs/2310.15012) | [Project Page](https://nuwansribandara.github.io/Elemantra/) | [EleThermal Dataset](https://github.com/NuwanSriBandara/Elemantra/tree/main/data/Thermal_Elephant_Dataset)
 
 ## Citation
 
