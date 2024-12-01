@@ -33,6 +33,9 @@ If you find our work, this repository, or novel algorithms or annotated datasets
 and here
 -->
 
+* **(Nov 13, 2024)** 
+  * Our paper is accepted at [APSCON 2025](https://2025.ieee-apscon.org/)
+
 * **(Nov 1, 2023)** 
   * Infrared Elephant Image Annotated Dataset ('[EleThermal](https://github.com/NuwanSriBandara/Elemantra/tree/main/data/Thermal_Elephant_Dataset)' dataset) is released.
 
